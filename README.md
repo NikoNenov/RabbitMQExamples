@@ -1,0 +1,2 @@
+# RabbitMQExamples
+RabbitMQ .NET examples
